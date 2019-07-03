@@ -1,5 +1,6 @@
 # dliss-tutorial
-Tutorial for [Deep Learning Summer School 2019](http://2019.dl-lab.eu/) in Gdansk, Poland
+Tutorial for [International Summer School
+on Deep Learning, 2019](http://dl-lab.eu/) in Gdansk, Poland
 
 ## Sections
 
