@@ -4,6 +4,11 @@ on Deep Learning, 2019](http://dl-lab.eu/) in Gdansk, Poland
 
 ## Sections
 
+### Overview Talk
+
+https://docs.google.com/presentation/d/1DJI1yX4U5IgApGwavt0AmOCLWwso7ou1Un93sMuAWmA/
+
+### Tutorial
 There are currently 3 hands-on sections to this tutorial.
 
 - The [first section](1_pretrained_vectors.ipynb) covers pre-trained word embeddings [colab](https://colab.research.google.com/github/dpressel/dlss-tutorial/blob/master/1_pretrained_vectors.ipynb)
